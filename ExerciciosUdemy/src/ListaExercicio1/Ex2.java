@@ -21,6 +21,8 @@ public class Ex2 {
 		
 		System.out.printf("Valor da área é: %.4f%n", a);
 		
+		sc.close();
+		
 		
 	}
 }

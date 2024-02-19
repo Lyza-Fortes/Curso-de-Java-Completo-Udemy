@@ -40,6 +40,8 @@ public class Ex5 {
 	  
 	  System.out.println("Total:  "+total);
 	  
+	  sc.close();
+	  
 	  
 }
 }

@@ -30,6 +30,8 @@ public class Ex4 {
 		System.out.println("Funcionário "+ numero);
 		System.out.printf("Salário: %.2f%n ", salario);
 		
+		sc.close();
+		
 		
 		
 	}

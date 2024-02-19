@@ -40,6 +40,8 @@ public class Ex6 {
 		retangulo = a * b;
 		System.out.println("Retângulo: "+retangulo);
 		
+		sc.close();
+		
 		
 	}
 
